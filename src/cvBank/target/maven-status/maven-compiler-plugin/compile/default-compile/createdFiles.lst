@@ -1,0 +1,9 @@
+leads\cvbank\controllers\util\PaginationHelper.class
+leads\cvbank\entities\Testtable.class
+leads\cvbank\entities\Testtable_.class
+leads\cvbank\controllers\TesttableController.class
+leads\cvbank\controllers\TesttableController$TesttableControllerConverter.class
+leads\cvbank\controllers\TesttableController$1.class
+leads\cvbank\controllers\util\JsfUtil.class
+leads\cvbank\entities\AbstractFacade.class
+leads\cvbank\entities\TesttableFacade.class
